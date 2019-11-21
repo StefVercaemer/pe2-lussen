@@ -11,6 +11,7 @@ Lay-out bij opstarten:
 Lay-out na bestelling:
 
 ![layout bestelling](Images/DrankenNaBestelling.png)
+
 Lay-out voor beheer:
 
 ![layout bestelling](Images/DrankenBeheer.png)
